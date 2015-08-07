@@ -8,6 +8,8 @@ http://blog.csdn.net/hittata/article/details/42387297
 ## 网站  
 - Golang中国  
 http://www.golangtc.com/articles
+- Go的第三方库或者框架收录   
+https://github.com/avelino/awesome-go
 
 ## 几个简单的restful框架和web框架  
 - Zerver  
