@@ -18,4 +18,5 @@ https://github.com/emicklei/go-restful
 https://github.com/dougblack/sleepy
 - web.go  
 http://webgo.io/tutorial.html
-
+- Quota的讨论  
+http://www.quora.com/Which-web-framework-for-the-Go-language-is-best-for-creating-a-REST-API
