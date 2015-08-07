@@ -20,3 +20,8 @@ https://github.com/dougblack/sleepy
 http://webgo.io/tutorial.html
 - Quota的讨论  
 http://www.quora.com/Which-web-framework-for-the-Go-language-is-best-for-creating-a-REST-API
+
+## 课程  
+- Building service in go  
+https://www.youtube.com/watch?v=MeOK1UzGHYw  
+https://github.com/zorkian/lca2015  
