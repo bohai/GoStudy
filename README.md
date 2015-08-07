@@ -8,3 +8,14 @@ http://blog.csdn.net/hittata/article/details/42387297
 ## 网站  
 - Golang中国  
 http://www.golangtc.com/articles
+
+## 几个简单的restful框架和web框架  
+- Zerver  
+http://cosiner.me/zerver/2015/04/09/zerver.html
+- go restful  
+https://github.com/emicklei/go-restful
+- sleepy  
+https://github.com/dougblack/sleepy
+- web.go  
+http://webgo.io/tutorial.html
+
