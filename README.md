@@ -4,6 +4,10 @@
 http://www.jianshu.com/p/a70098a94d18
 - go 语言学习历程  
 http://blog.csdn.net/hittata/article/details/42387297
+- go web编程  
+https://github.com/astaxie/build-web-application-with-golang  
+- go编程规范  
+http://golanghome.com/post/550  
 
 ## 网站  
 - Golang中国  
